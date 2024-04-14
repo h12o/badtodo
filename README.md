@@ -1,6 +1,6 @@
 このファイル群が提供するものは、脆弱性診断実習用アプリ（通称「やられサイト」）Bad Todo Listです。特徴は以下の通りです。
 
-- Windows、Mac（Intel、Apple Silicone）、Linux環境で動作可能
+- Windows、Mac（Intel、Apple silicon）、Linux環境で動作可能
 - LAMP(Linux+APache+MySQL+PHP)で開発された古典的なマルチページアプリケーション
 - 多くの種類の脆弱性を含む
   - ウェブ健康診断仕様の13種類の脆弱性
